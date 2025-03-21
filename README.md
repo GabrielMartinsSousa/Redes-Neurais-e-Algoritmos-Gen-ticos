@@ -4,4 +4,4 @@
 
 ## Introdução
 
-Este é um repositório dedicado à hospedar as atividades e projetos desenvolvidos durante a disciplina de Redes Neurais e Algoritmos Genéticos do 3° Semestre da Ilum Escola de Ciência, ministrada pelo Professor Doutor Daniel Roberto Cassar. Grande parte dos 
+Este é um repositório dedicado à armazenar as atividades e projetos desenvolvidos durante a disciplina de Redes Neurais e Algoritmos Genéticos do 3° Semestre da Ilum Escola de Ciência, ministrada pelo Professor Doutor Daniel Roberto Cassar. Grande parte dos trabalhos foram feitos individualmente, porém alguns foram feitos em grupos de 2 à 3 pessoas. Quando houver colaboração, constará no Notebook o nome dos colegas que colaboraram comigo e também no Relatório Final das atividades estará detalhado o trabalho de cada colaborador. 
