@@ -68,7 +68,7 @@ Todos os Notebooks contém o objetivo daquela atividade, uma introdução ao pro
         </strong>
       </sub><br>
       <sub><a href="https://ilum.cnpem.br/" target="_blank">Ilum - CNPEM</a></sub><br>
-      <sub><a href="https://lattes.cnpq.br/7813674402525956">Currículo Lattes</a></sub><br>
+      <sub><a href="http://lattes.cnpq.br/6836811454462332">Currículo Lattes</a></sub><br>
     </td>
     <!-- Desenvolvedor 4 -->
     <td align="center">
