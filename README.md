@@ -23,20 +23,13 @@ Durante o semestre, exploramos o conceito de Redes Neurais (RNs), que são model
 Na outra parte do semestre, estudamos a área de Algoritmos Genéticos, que são métodos computacionais muito utilizados para problemas de otimização e busca. Eles partem de conceitos biológicos como reprodução e genética para produzir candidatos para a solução de um problema-alvo. De maneira prática, os algoritmos geram uma população de candidatos, que vão sendo alterados ao longo de diversas gerações por operadores de cruzamento de informações entre indivíduos e mutações das informações para criação de informação nova entre os indivíduos. Durante a disciplina, aplicamos os métodos aprendidos para resolver *toy problems*, a fim de entender detalhadamente o funcionamento desses algoritmos.
 
 ## Atividades Desenvolvidas
-### Monstrinhos
+O detalhamento das atividades realizadas tanto individualmente quanto em grupo está no Memorial da Disciplina de RNAG, neste repositório, e nos Notebooks referentes a cada atividade. 
+### Colaboração nas Atividades
+- **Feras 4.3, 4.9 e 4.12**: Essas Feras Formidáveis foram desenvolvidas em parceria com a colega Letícia Almeida Nunes. Discutimos, escrevemos e revisamos o trabalho de maneira igualitária.
+- **Feras 4.13 e 4.14**: Essas Feras Formidáveis foram desenvolvidas em parceria com o colega Vitor Gabriel Dreveck. Discutimos, escrevemos e revisamos o trabalho de maneira igualitária.
+- **Tarrasque**: O Projeto Final da disciplina foi desenvolvido em parceria com as colegas Maria Clara Macedo Lelis e Yasmin Barbosa Shimizu. Pesquisamos, discutimos, escrevemos e revisamos o trabalho de maneira igualitária.
 
-- Monstrinho 3.1
+### Como acessar as atividades
+Cada uma das atividades entregues durante o semestre estão armazenadas neste repositório, nas suas respectivas pastas segundo o tipo da atividade. Os 5 Monstrinhos estão armazenados na pasta Monstrinhos, as 5 Feras Formidáveis estão na pasta Feras Formidáveis e o Tarrasque está armazenado na pasta Tarrasque, mas também possui um repositório próprio no Github, onde seu desenvolvimento está bem mais detalhado. Ele pode ser acessado [aqui](https://github.com/GabrielMartinsSousa/Tarrasque-Previs-o-de-pH-com-Rede-Neural-MLP)
 
-Nome: “Eu podia jurar que nãoo veria grafos nunca mais na minha vida” — aluno da
-turma 2024 que n˜ao quis se identificar
-
-Equipe: Gabriel Martins Sousa
-Objetivo: Fazer em uma folha sulfite o grafo computacional da expressão abaixo.
-$$L = (y(ab + cd + ef + g))^2$$
-Realizar o forward pass considerando que L ´e o v´ertice folha e os seguintes valores
-Resolu¸c˜ao: Realizei manualmente em uma folha sulfite a constru¸c˜ao do grafo rep-
-resentando a equa¸c˜ao, calculando as opera¸c˜oes na etapa de forward pass, e, atrav´es do
-backpropagation, obtive as derivadas locais atrav´es de derivadas parciais. Ao final, obtive
-o resultado de L.
-
-
+Todos os Notebooks contém o objetivo daquela atividade, uma introdução ao problema e a como resolver, o detalhamento do desenvolvimento com os códigos, uma breve conclusão sobre o resultado e a atividade, e, em algumas entregas, as referências que utilizamos durante o desenvolvimento.
