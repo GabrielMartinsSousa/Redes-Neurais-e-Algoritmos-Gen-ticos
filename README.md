@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Este é um repositório dedicado à armazenar as atividades e projetos desenvolvidos durante a disciplina de Redes Neurais e Algoritmos Genéticos do 3° Semestre da Ilum Escola de Ciência, ministrada pelo Professor Doutor Daniel Roberto Cassar. Uma parte dos trabalhos foram feitos individualmente, os outros foram feitos em grupos de 2 à 3 pessoas. Quando houver colaboração, constará no Notebook o nome dos colegas que colaboraram comigo e também no Relatório Final das atividades estará detalhado o trabalho de cada colaborador.
+Este é um repositório dedicado à armazenar as atividades e projetos desenvolvidos durante a disciplina de Redes Neurais e Algoritmos Genéticos, do 3° Semestre do Bacharelado Interdisciplinar em Ciência e Tecnologia da Ilum Escola de Ciência, ministrada pelo Professor Doutor Daniel Roberto Cassar. Uma parte dos trabalhos foram feitos individualmente, os outros foram feitos em grupos de 2 à 3 pessoas. Quando houver colaboração, constará no Notebook o nome dos colegas que colaboraram comigo e também, está detalhado mais abaixo, o trabalho de cada colaborador nas atividades.
 
 <h1 align='center'> Redes Neurais </h1>
 
@@ -33,3 +33,95 @@ O detalhamento das atividades realizadas tanto individualmente quanto em grupo e
 Cada uma das atividades entregues durante o semestre estão armazenadas neste repositório, nas suas respectivas pastas segundo o tipo da atividade. Os 5 Monstrinhos estão armazenados na pasta Monstrinhos, as 5 Feras Formidáveis estão na pasta Feras Formidáveis e o Tarrasque está armazenado na pasta Tarrasque, mas também possui um repositório próprio no Github, onde seu desenvolvimento está bem mais detalhado. Ele pode ser acessado [aqui](https://github.com/GabrielMartinsSousa/Tarrasque-Previs-o-de-pH-com-Rede-Neural-MLP)
 
 Todos os Notebooks contém o objetivo daquela atividade, uma introdução ao problema e a como resolver, o detalhamento do desenvolvimento com os códigos, uma breve conclusão sobre o resultado e a atividade, e, em algumas entregas, as referências que utilizamos durante o desenvolvimento.
+
+## Agradecimentos
+<table align="center">
+  <tr>
+    <!-- Desenvolvedor 1 -->
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/172424981?v=4" width="140"><br>
+      <sub>
+        <strong>
+          <a href="https://github.com/ClaraLelis" target="_blank">Clara Lelis</a>
+        </strong>
+      </sub><br>
+      <sub><a href="https://ilum.cnpem.br/" target="_blank">Ilum - CNPEM</a></sub><br>
+      <sub><a href="http://lattes.cnpq.br/xxxxxxxxxxxxxxx" target="_blank">Currículo Lattes</a></sub><br>
+      <sub><a href="https://www.linkedin.com/in/usuario" target="_blank">LinkedIn</a></sub>
+    </td>
+    <!-- Desenvolvedor 2 -->
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/171518829?v=4" width="140"><br>
+      <sub>
+        <strong>
+          <a href="https://github.com/yasminbshimizu" target="_blank">Yasmin Shimizu</a>
+        </strong>
+      </sub><br>
+      <sub><a href="https://ilum.cnpem.br/" target="_blank">Ilum - CNPEM</a></sub><br>
+      <sub><a href="https://lattes.cnpq.br/7813674402525956">Currículo Lattes</a></sub><br>
+      <sub><a href="https://www.linkedin.com/in/yasminbshimizu/" target="_blank">LinkedIn</a></sub>
+    </td>
+    <!-- Desenvolvedor 3 -->
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/172425156?v=4" width="140"><br>
+      <sub>
+        <strong>
+          <a href="https://github.com/leticiaalmnunes" target="_blank">Letícia Nunes</a>
+        </strong>
+      </sub><br>
+      <sub><a href="https://ilum.cnpem.br/" target="_blank">Ilum - CNPEM</a></sub><br>
+      <sub><a href="https://lattes.cnpq.br/7813674402525956">Currículo Lattes</a></sub><br>
+      <sub><a href="https://www.linkedin.com/in/yasminbshimizu/" target="_blank">LinkedIn</a></sub>
+    </td>
+    <!-- Desenvolvedor 4 -->
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/170521728?v=4" width="140"><br>
+      <sub>
+        <strong>
+          <a href="https://github.com/vitordreveck-ilum" target="_blank">Vitor Dreveck</a>
+        </strong>
+      </sub><br>
+      <sub><a href="https://ilum.cnpem.br/" target="_blank">Ilum - CNPEM</a></sub><br>
+      <sub><a href="https://lattes.cnpq.br/7813674402525956">Currículo Lattes</a></sub><br>
+      <sub><a href="https://www.linkedin.com/in/yasminbshimizu/" target="_blank">LinkedIn</a></sub>
+    </td>
+    <!-- Desenvolvedor 5 -->
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/111528424?v=4" width="140"><br>
+      <sub>
+        <strong>
+          <a href="https://github.com/romulorcruz" target="_blank">Rômulo Cruz</a>
+        </strong>
+      </sub><br>
+      <sub><a href="https://ilum.cnpem.br/" target="_blank">Ilum - CNPEM</a></sub><br>
+      <sub><a href="https://lattes.cnpq.br/7813674402525956">Currículo Lattes</a></sub><br>
+      <sub><a href="https://www.linkedin.com/in/yasminbshimizu/" target="_blank">LinkedIn</a></sub>
+    </td>
+    <!-- Desenvolvedor 6 -->
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/172424921?v=4" width="140"><br>
+      <sub>
+        <strong>
+          <a href="https://github.com/pedrocoelhogf" target="_blank">Pedro Freitas</a>
+        </strong>
+      </sub><br>
+      <sub><a href="https://ilum.cnpem.br/" target="_blank">Ilum - CNPEM</a></sub><br>
+      <sub><a href="https://lattes.cnpq.br/7813674402525956">Currículo Lattes</a></sub><br>
+      <sub><a href="https://www.linkedin.com/in/yasminbshimizu/" target="_blank">LinkedIn</a></sub>
+    </td>
+  <!-- Desenvolvedor 7 -->
+     <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/9871905?v=4" width="140"><br>
+      <sub>
+        <strong>
+          <a href="https://github.com/drcassar" target="_blank">Prof. Daniel Cassar</a>
+        </strong>
+      </sub><br>
+      <sub><a href="https://ilum.cnpem.br/" target="_blank">Ilum - CNPEM</a></sub><br>
+      <sub><a href="https://lattes.cnpq.br/7813674402525956">Currículo Lattes</a></sub><br>
+      <sub><a href="https://www.linkedin.com/in/yasminbshimizu/" target="_blank">LinkedIn</a></sub>
+    </td>
+  </tr>
+</table>
+
+Ao longo de todo o semestre, colaborei com diversos colegas, tanto os que desenvolvi trabalhos, como a Letícia, o Vitor, a Yasmin e a Clara, como os que conversei ao longo das aulas e me ajudaram a entender o conteúdo e resolver os problemas, como o Rômulo e o Pedro. Agradeço imensamente a todos os meus colegas e, principalmente, ao Prof. Daniel Cassar, pela leveza com que conduziu o semestre e as ótimas aulas e atividades
